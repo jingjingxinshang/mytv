@@ -93,19 +93,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港J2频道,http://r.jdshipin.com/Nr5jq
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-河北经济,rtp://239.255.2.20:8108
-河北都市,rtp://239.255.2.21:8114
-河北影视,rtp://239.255.2.22:8120
-河北少儿科教,rtp://239.255.2.23:8126
-河北公共,rtp://239.255.2.24:8132
-河北农民,rtp://239.255.2.25:8138
-河北杂技,rtp://239.255.3.52:9772
-睛彩河北,rtp://239.255.2.26:8144
-石家庄新闻综合,rtp://239.255.2.33:8186
-石家庄娱乐,rtp://239.255.2.34:8192
-石家庄生活,rtp://239.255.2.35:8198
-石家庄都市,rtp://239.255.2.36:8204
-中国交通,rtp://239.255.2.110:8648
 
 电信线路,#genre#
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -452,16 +439,4 @@ CCTV卫生健康,http://8.218.49.207:9999/ysp.php?id=wsjk
 
 
 河北农民,#genre#
-河北经济,rtp://239.255.2.20:8108
-河北都市,rtp://239.255.2.21:8114
-河北影视,rtp://239.255.2.22:8120
-河北少儿科教,rtp://239.255.2.23:8126
-河北公共,rtp://239.255.2.24:8132
-河北农民,rtp://239.255.2.25:8138
-河北杂技,rtp://239.255.3.52:9772
-睛彩河北,rtp://239.255.2.26:8144
-石家庄新闻综合,rtp://239.255.2.33:8186
-石家庄娱乐,rtp://239.255.2.34:8192
-石家庄生活,rtp://239.255.2.35:8198
-石家庄都市,rtp://239.255.2.36:8204
-中国交通,rtp://239.255.2.110:8648
+农民,http://live7.plus.hebtv.com/hbggx/playlist.m3u8
