@@ -440,4 +440,4 @@ CCTV卫生健康,http://8.218.49.207:9999/ysp.php?id=wsjk
 
 
 河北农民,#genre#
-农民,http://live7.plus.hebtv.com/hbggx/playlist.m3u8
+农民,http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
